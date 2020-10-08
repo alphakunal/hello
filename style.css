@@ -1,0 +1,18 @@
+     body 
+     {
+      background-color: #EAF6F6
+     }
+     hr
+     {
+       
+       border-style: none;
+      border-top-style: dotted; 
+        width: 10% ;
+       height: 0px;
+       border-color: rosybrown ;
+       border-width: 15px;
+     }
+     img
+     {
+       height: 220px ;
+     }
